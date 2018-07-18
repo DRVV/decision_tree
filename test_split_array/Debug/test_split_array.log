@@ -1,0 +1,2 @@
+﻿  test_split_array.c
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test_split_array\test_split_array.c(58): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?

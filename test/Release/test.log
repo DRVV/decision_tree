@@ -1,0 +1,23 @@
+﻿  simple_split.c
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(50): warning C4028: formal parameter 1 different from declaration
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(91): warning C4133: 'function': incompatible types - from 'float [7]' to 'int *'
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(103): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(112): warning C4013: 'loss_func_offset' undefined; assuming extern returning int
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(112): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(80): warning C4305: 'initializing': truncation from 'int' to 'float'
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(81): warning C4133: 'initializing': incompatible types - from 'float *' to 'int *'
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(86): warning C4101: 'mod': unreferenced local variable
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(194): warning C4013: 'std' undefined; assuming extern returning int
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(194): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(195): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(203): warning C4142: 'loss_func_offset': benign redefinition of type
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(204): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(205): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(224): warning C4142: 'std': benign redefinition of type
+c:\users\sysl1_1704a\documents\visual studio 2017\projects\decision_tree\test\simple_split.c(231): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  test.vcxproj -> C:\Users\sysl1_1704a\Documents\Visual Studio 2017\Projects\decision_tree\Release\test.exe
